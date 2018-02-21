@@ -22,3 +22,19 @@ a:visited{
     color: white;
     list-style: none;
 }
+
+#process{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+div h3{
+    font-size: 23px;
+    font-weight: bold;
+} 
+
+p{
+    font-size: 14px;
+}
+
+
