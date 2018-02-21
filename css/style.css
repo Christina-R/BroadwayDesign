@@ -37,4 +37,20 @@ p{
     font-size: 14px;
 }
 
+.new-york{
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+    background-image: url(../resources/the-flatiron-building.png);
+}
+
+.bottom{
+    background-color: dimgray;
+    color: white;
+    text-align: left
+}
+
+span{
+    font-size: 11px;
+}
 
